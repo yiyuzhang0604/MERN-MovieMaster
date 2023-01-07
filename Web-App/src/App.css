@@ -1,0 +1,31 @@
+.page{
+	/* background: #41b3a3;  */
+	width: 80vw; 
+	height: 100vh; 
+	
+
+
+}
+.page-title {
+	display: block !important;
+	text-align: center;
+	font-size: 2rem;
+	margin-top: 10px;
+	background-color: #41b3a3;
+	width: 80vw; 
+	
+}
+
+.form-container {
+	width: 300px;
+	margin: 0;
+}
+title{
+	font-size: 500px; 
+	color: orange; 
+}
+
+.ui.teal.button:focus,
+.ui.teal.buttons .button:focus {
+	background-color: orange;
+}
